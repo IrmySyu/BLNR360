@@ -176,4 +176,10 @@ a:active {
     transform: translate(100%, 0%);
     transform: scale(1) translate(0px, -50%);
   }
+  h1 {
+    font-size: 1em;
+  }
+  .title p {
+    font-size: 0.8em;
+  }
 }
